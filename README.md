@@ -1,5 +1,8 @@
-<<<<<<< HEAD
 # CryptocurrencyChartAngular
+
+This is an implementation of a static chart for cryptocurrency paired with USDT. I used an API from Lightweight Charts to build the chart and an API from Binance to get the technical data. The project is built in Angular and I used two components which interact through a parent-child relationship and also through a service. After the user introduces data in one component, they are passed to the other component, where the graph is built using those data.
+
+=======
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
